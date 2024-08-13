@@ -4,4 +4,4 @@ location:
   longitude: 121.0413941
 radius: 1000
 duckdb:
-  database: "vet_clinics.db"
+  database: "data/processed/vet_clinics.db"
