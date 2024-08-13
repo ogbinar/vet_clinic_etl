@@ -1,0 +1,45 @@
+2024-08-12 14:53:28,475 - INFO - API queries_quota: 60
+2024-08-12 14:54:50,043 - INFO - API queries_quota: 60
+2024-08-12 14:57:28,828 - INFO - API queries_quota: 60
+2024-08-12 16:14:58,902 - INFO - API queries_quota: 60
+2024-08-12 16:14:58,903 - INFO - Fetching places for keyword: vet clinics
+2024-08-12 16:15:31,274 - INFO - API queries_quota: 60
+2024-08-12 16:15:31,274 - INFO - Fetching places for keyword: vet clinics
+2024-08-12 16:16:21,202 - INFO - API queries_quota: 60
+2024-08-12 16:16:21,203 - INFO - Fetching places for keyword: vet clinics
+2024-08-12 16:17:08,954 - INFO - API queries_quota: 60
+2024-08-12 16:17:08,955 - INFO - Fetching places for keyword: vet clinics
+2024-08-12 16:17:13,806 - INFO - Data loaded into vet_clinics.db successfully
+2024-08-12 16:17:13,818 - INFO - ETL process completed successfully.
+2024-08-12 16:17:53,403 - INFO - API queries_quota: 60
+2024-08-12 16:17:53,404 - INFO - Fetching places for keyword: vet clinics
+2024-08-12 16:17:58,634 - INFO - Data loaded into data/processed/vet_clinics.db successfully
+2024-08-12 16:17:58,649 - INFO - ETL process completed successfully.
+2024-08-12 16:19:32,672 - INFO - API queries_quota: 60
+2024-08-12 16:19:32,672 - INFO - Fetching places for keyword: vet clinics
+2024-08-12 16:19:38,361 - INFO - Data loaded into data/processed/vet_clinics.db successfully
+2024-08-12 16:19:38,365 - INFO - ETL process completed successfully.
+2024-08-12 16:20:36,085 - INFO - API queries_quota: 60
+2024-08-12 16:20:36,085 - INFO - Fetching places for keyword: vet clinics
+2024-08-12 16:20:41,621 - INFO - Data loaded into data/processed/vet_clinics.db successfully
+2024-08-12 16:20:41,625 - INFO - ETL process completed successfully.
+2024-08-12 20:18:30,571 - INFO - API queries_quota: 60
+2024-08-12 20:18:30,571 - INFO - Fetching places for keyword: vet clinics
+2024-08-12 20:18:36,711 - INFO - Data loaded into data/processed/vet_clinics.db successfully
+2024-08-12 20:18:36,714 - INFO - ETL process completed successfully.
+2024-08-13 21:52:41,494 - INFO - API queries_quota: 60
+2024-08-13 21:52:41,494 - INFO - Fetching places for keyword: vet clinics
+2024-08-13 21:54:02,200 - INFO - API queries_quota: 60
+2024-08-13 21:54:02,200 - INFO - Fetching places for keyword: vet clinics
+2024-08-13 21:56:54,810 - INFO - API queries_quota: 60
+2024-08-13 21:56:54,810 - INFO - Fetching places for keyword: vet clinics
+2024-08-13 21:57:00,834 - INFO - Data loaded into data/processed/vet_clinics.db successfully
+2024-08-13 21:57:00,842 - INFO - ETL process completed successfully.
+2024-08-13 21:59:52,918 - INFO - API queries_quota: 60
+2024-08-13 21:59:52,919 - INFO - Fetching places for keyword: vet clinics
+2024-08-13 21:59:59,132 - INFO - Data loaded into data/processed/vet_clinics.db successfully
+2024-08-13 21:59:59,136 - INFO - ETL process completed successfully.
+2024-08-13 22:04:09,777 - INFO - API queries_quota: 60
+2024-08-13 22:04:09,777 - INFO - Fetching places for keyword: vet clinics
+2024-08-13 22:04:15,981 - INFO - Data loaded into data/processed/vet_clinics.db successfully
+2024-08-13 22:04:16,006 - INFO - ETL process completed successfully.
