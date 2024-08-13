@@ -2,6 +2,10 @@
 
 This project is an ETL pipeline for fetching, transforming, and loading vet clinic data from the Google Maps API into a DuckDB database.
 
+- Community: https://DataEngineering.PH
+- Meetup Link: https://www.meetup.com/data-engineering-pilipinas/events/302686497/
+- Presentation slides: https://docs.google.com/presentation/d/1x9WdIHYcRm5iIZf5BFbgcNOfwG3q9dsq5cS1CP0Hl-o/edit?usp=sharing
+
 ## Setup
 
 1. **Clone the repository**:
